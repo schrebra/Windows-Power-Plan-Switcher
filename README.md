@@ -27,6 +27,6 @@ This tool acts as a shortcut for Windows' built-in power management settings. It
 
 ## How to get started
 1. Copy the code into a plain text file.
-2. Save the file with a `.ps1` extension (e.g., `PowerSwitcher.ps1`).
+2. Save the file with a `.ps1` extension (e.g., `Power-Plan-Switcher.ps1`).
 3. Right-click the file and select **"Run with PowerShell."**
 4. The window will appear, allowing you to select your preferred power mode immediately.
