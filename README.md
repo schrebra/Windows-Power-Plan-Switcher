@@ -1,6 +1,6 @@
 # Windows Power Plan Switcher
 
-<img align="right" width="35%" alt="image" src="https://github.com/user-attachments/assets/87f6ef4e-2719-475e-9ac0-a098b7e74159" />
+<img src="https://github.com/user-attachments/assets/87f6ef4e-2719-475e-9ac0-a098b7e74159" alt="App Preview" width="300">
 
 ## What is this?
 The **Power Plan Switcher** is a simple, lightweight tool designed to make changing your computer's power settings fast and easy. Instead of clicking through several Windows menus, this tool gives you a clean, small window and a tray icon to swap between "Power Saver," "Balanced," and "High Performance" modes with a single click.
